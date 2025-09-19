@@ -6,5 +6,5 @@ const header = document.querySelector(".header")
 toggleBtn.addEventListener("click", () => {
 	// add or remove the "header-open" class from the header element
 	// write your code here
-	console.log("run the function here !!")
+	console.log("header-open")
 })
